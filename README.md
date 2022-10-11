@@ -1,7 +1,7 @@
 # Dicoding_Machine_Learning
 Tugas dari dicoding dalam materi machine learning untuk pemula yang saya kerjakan ini adalah membuat deteksi baru gunting kertas menggunakan deep neural network
 
-Anda dapat menjalankan program yang telah saya buat pada google colab karena requirement yang digunakan sudah tersedia pada google colab. untuk dataset yang saya gunakan diberikan oleh pihak dicoding.
+Anda dapat menjalankan program yang telah saya buat pada google colab karena requirement yang digunakan sudah tersedia pada google colab. untuk dataset yang saya gunakan diberikan oleh pihak dicoding. anda tidak perlu mendownload nya secara manual karena pada program sudah saya berikan sintaks untuk mendowload datasetnya.
 
 lalu saya juga mempelajari supervised learning dan unsupervised learning
 
