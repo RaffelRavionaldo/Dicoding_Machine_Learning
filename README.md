@@ -3,7 +3,8 @@ Tugas dari dicoding dalam materi machine learning untuk pemula yang saya kerjaka
 
 Anda dapat menjalankan program yang telah saya buat pada google colab karena requirement yang digunakan sudah tersedia pada google colab. untuk dataset yang saya gunakan diberikan oleh pihak dicoding. anda tidak perlu mendownload nya secara manual karena pada program sudah saya berikan sintaks untuk mendowload datasetnya.
 
-lalu saya juga mempelajari supervised learning dan unsupervised learning
+# Apa saja yang telah saya pelajari di dicoding selain deep neural network?
+Saya mempelajari supervised learning dan unsupervised learning
 
 untuk supervised learning, hal yang saya pelajari adalah :
 1. Decision Tree
